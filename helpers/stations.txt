@@ -1,0 +1,2123 @@
+1001, Jan Mayen(Nor Navy)
+1004, Ny Alesund Ii
+1028, Bjornoya Island
+1152, Bodo Vi (Civ Mil)
+1241, Orland Iii(Nor Afb)
+1384, Oslo Gardermoen
+1400, Ekofisk
+1415, Stavanger Sola(Afb)
+1492, Oslo Blindern
+2185, Lulea Kallax (Afb)
+2225, Ostersund
+2365, Sundsvall Harnosand
+2527, Goteborg Landvetter
+2591, Visby Aero Station
+2836, Sodankyla
+2935, Jyvaskyla (Mil Civ)
+2963, Jokioinen
+3001, Muckle Flugga (Lh)
+3005, Lerwick Shetland Is
+3023, South Uist Range
+3026, Stornoway
+3066, Kinloss Raf
+3091, Aberdeen Dyce
+3130, West Freugh
+3132, West Freugh (Aut)
+3162, Eskdalemuir
+3171, Leuchars Raf
+3204, Isle Of Man Ronalds
+3213, Eskmeals
+3238, Albemarle
+3240, Boulmer
+3257, Leeming Raf
+3317, Woodvale
+3354, Nottingham Wx Ctr
+3377, Waddington Raf
+3414, Shawbury Raf
+3495, Coltishall
+3496, Hemsby
+3502, Aberporth
+3590, Wattisham Raf
+3649, Brize Norton Raf
+3693, Shoeburyness
+3696, Walton On Naze
+3715, Cardiff Wales Arpt
+3743, Larkhill
+3763, Bracknell Beaufort
+3808, Camborne
+3882, Herstomonceux West
+3918, Castor Bay
+3920, Hillsborough
+3953, Valentia Observatory
+4001, Hvallatur
+4005, Bolungavik
+4018, Keflavik Meeks
+4018, Keflavik (Civ\Nas)
+4089, Egilsstadir
+4202, W. Thule
+4202, W Thule
+4202, W Thule
+4202, Thule Ab
+4220, Egedesminde Ausiat
+4231, Sondrestrom
+4255, Marrak Point
+4270, Narsarssuak
+4270, Narssarssuaq
+4320, Danmarkshavn (Port)
+4339, Scoresbysund
+4342, Walrus Bay
+4353, Ikateq
+4360, Angmagssalik
+4417, Geosummit Gl
+6011, Thorshavn (Port)
+6030, Alborg Dn
+6060, Karup
+6181, Koebenhavn\Jaegersborg
+6210, Valkenburg
+6235, De Kooy (Navy)
+6260, De Bilt
+6400, Koksijde (Bel Afb)
+6447, Uccle Ukkle
+6458, Beauvechain
+6476, Saint Hubert (Mil)
+6496, Elsenborn (Mil)
+6610, Payerne (Mil Aut)
+6842, Diepoldsav
+6843, Masein
+7110, Brest Guipavas
+7145, Trappes (Aut)
+7180, Nancy Essey
+7481, Lyon Satolas
+7510, Bordeaux Merignac
+7645, Nimes Courbessac
+7690, Nice Cote D'Azur
+7761, Ajaccio Campo Oro
+8001, La Coruna City
+8023, Santander City
+8160, Zaragoza (Mil Civ)&
+8190, Barcelona Servei
+8221, Madrid Barajas
+8301, Palma De Mallorca
+8302, Palma Son Benet
+8430, Murcia City
+8449, Rota Nas
+8495, Gibraltar (Civ Mil)
+8506, Horta
+8507, Graciosa Aerodrome
+8508, Lajes Santa Rita
+8509, Lajes Ab
+8522, Funchal
+8579, Lisbon Gago Coutinho
+8589, Praia
+8594, Sal Isl Amilcar Cab
+10035, Schleswig
+10113, Norderney Dl
+10184, Greifswald
+10200, Emden Flugplatz
+10238, Bergen (Mil)
+10272, Wittstock
+10304, Meppen
+10338, Hannover
+10361, Magdeburg
+10393, Lin
+10410, Essen Mulheim
+10437, Fritzlar Kasseler Warte
+10468, Oppin
+10486, Wahnsdorf
+10499, Goerlitz
+10548, Meiningen
+10554, Erfurt Bindersleben
+10577, Chemnitz
+10618, Idar Oberstein(Mil)
+10739, Stuttgart Schnarrenberg
+10763, Nurnberg
+10771, Kuemmersbruck
+10828, Sigmaringen
+10868, Muenchen Oberschleissheim
+10954, Altenstadt Shongua
+10962, Hohenpeissenberg
+11010, Linz (Civ Mil)
+11011, Horsching (Aus Afb)
+11035, Wien Hohe Warte
+11036, Vienna Schwechat
+11120, Innsbruck Airport
+11239, Graz Thalerhof Arpt
+11240, Graz (Mil Civ)
+11520, Prague Libus
+11722, Brno Rebesovice
+11747, Prostejov
+11952, Poprad Ganovce
+12120, Leba
+12374, Legionowo
+12425, Wroclaw Maly Gadow
+12843, Budapest Lorinc
+12982, Szeged (Aut)
+13275, Beograd Kosutnjak
+13586, Skopje Petrovac
+14015, Ljubljana\Bezigrad
+14240, Zagreb\Maksimir
+14430, Zadar
+15001, Avrameni
+15120, Cluj Napoca Somesen
+15420, Bucharest Baneasa
+15480, Constanta
+15614, Sofia (Observatory)
+16044, Udine Campoformido
+16080, Milano Linate
+16087, Verona
+16113, Cuneo Levaldigi
+16121, Genova
+16144, S. Pietro Capofiume
+16245, Pratica Di Mare(Ab)
+16320, Brindisi Casale Afb
+16429, Trapani Birgi (Afb)
+16546, Decimomannu Iy
+16560, Cagliari Elmas(Afb)
+16622, Thessaloniki Mikra
+16716, Athens Hellenkion
+16754, Iraklion (Civ Afb)
+17030, Samsun City
+17062, Istanbul Goztepe
+17067, Golcuk Dumlupinar
+17068, Cengiztopel
+17095, Erzurum Bolge
+17130, Ankara Central
+17220, Izmir
+17240, Isparta
+17280, Diyarbakir(Civ Afb)
+17281, Diyarbakir(Civ Afb)
+17351, Adana
+17352, Adana Sakirpasa
+17600, Paphos
+17601, Akrotiri (Raf)
+17607, Nicosia Athalassa
+17609, Larnaca
+20046, Polargmo
+20292, Fedorova
+20674, Dikson Island
+20744, Malye Karmakuly
+20891, Hatanga
+20892, Hatanga
+21432, Kotel'Nyj Island
+21432, Kotel'Nyj Island
+21824, Tiksi
+21946, Cokurdah
+21982, Vrangelja Island
+22113, Murmansk
+22217, Kandalaksa
+22271, Sojna
+22522, Kem (Port)
+22543, Arhangel'Sk Rs
+22550, Arhangel'Sk
+22820, Petrozavodsk
+22845, Kargopol'
+23022, Amderma
+23078, Norilsk
+23205, Nar'Jan Mar
+23330, Salehard
+23415, Pecora
+23418, Pecora
+23472, Turuhansk
+23552, Tarko Sale
+23802, Syktyvkar
+23804, Syktyvkar
+23884, Bor
+23921, Ivdel'
+23933, Hanty Mansijsk
+23955, Aleksandrovskoe
+24125, Olenek
+24266, Verhojansk
+24343, Zigansk
+24507, Tura
+24641, Viljujsk
+24688, Ojmjakon
+24726, Mirny
+24908, Vanavara
+24944, Olekminsk
+24959, Yakutsk Airport
+25123, Cerskij
+25173, Cape Smidta
+25399, Cape Uelen
+25400, Zyrjanka
+25428, Scerbakovo
+25563, Anadyr'
+25703, Sejmcan
+25913, Magadan
+25954, Korf
+26038, Tallin
+26063, St. Peterburg
+26258, Pskov
+26298, Bologoe
+26422, Riga
+26441, Madona
+26477, Velikie Luki
+26629, Kaunas
+26702, Kaliningrad
+26781, Smolensk
+26850, Minsk
+27037, Vologda
+27038, Voldoga Rs
+27199, Kirov
+27459, Niznij Novgorod
+27595, Kazan'
+27612, Moscow
+27707, Suhinici
+27730, Rjazan'
+27962, Penza
+27995, Bezencukskaja
+28225, Perm
+28275, Tobolsk
+28445, Verhnee Dubrovo
+28601, Cistopol
+28661, Kurgan
+28698, Omsk
+28722, Ufa
+28951, Kostanai Ra
+28952, Kustanaj
+29231, Kolpasev
+29263, Yeniseysk
+29282, Bogucany
+29572, Emel'Janovo
+29612, Barabinsk
+29634, Novosibirsk
+29698, Nizne Udinsk
+29839, Barnaul
+29862, Hakasskata
+30054, Vitim
+30230, Kirensk
+30309, Bratsk
+30372, Cara
+30554, Bogdarin
+30635, Ust Barguzin
+30673, Mogoca
+30715, Angarsk
+30758, Chita
+30935, Krasnyj Cikoj
+30965, Borzja
+31004, Aldan
+31088, Ohotsk
+31168, Ajan
+31300, Zeja
+31369, Nikolaevsk On Am
+31510, Blagovescensk
+31538, Sutur
+31736, Habarovsk
+31770, Sovetskaja Gavan
+31873, Dal'Nerecensk
+31977, Sad Gorod
+32061, Aleksandrovsk Sahalinskij
+32098, Poronajsk
+32150, Juzno Sahalinsk
+32215, Severo Kurilsk
+32389, Kljuci
+32477, Sobolevo
+32540, Petropavlovsk Kamchatskij
+32618, Ostrov Beringa
+33008, Brest
+33041, Gomel'
+33317, Sepetovka
+33345, Kiev Zhulyany
+33393, L'Viv
+33631, Uzgorod
+33658, Chernivtsi
+33663, Mogilev Podol'Skij
+33791, Kryvyi Rih
+33815, Kishinev
+33837, Odessa Tsentralny
+33946, Simferopol'
+33966, Krymskaya
+34009, Kursk
+34122, Voronez
+34172, Saratov
+34247, Kalac
+34300, Kharkov
+34467, Volgograd
+34560, Volgograd
+34731, Rostov Na Donu
+34858, Divnoe
+34880, Astrahan'
+34882, Astrahan'
+35121, Orenburg
+35229, Aktjubinsk
+35394, Karaganda
+35671, Dzezkazgan
+35700, Gur'Ev
+36003, Pavlodar
+36096, Kyzyl
+36870, Alma Ata
+36872, Almaty Ra
+37011, Tuapse (Stream)
+37018, Tuapse (Stream)
+37054, Mineralyne Vody
+37055, Mineralyne Vody
+37259, Mahachkala Rs
+37549, Tbilisi Novoalexeye
+37789, Yerevan Zvartnots
+37860, Mashtaga
+38062, Kzylorda
+38064, Kyzylorda Ra
+38341, Dzambul
+38343, Lugovaja
+38353, Frunze
+38457, Taskent Yuzni
+38507, Krasnovodsk
+38750, Gasan Kuli
+40080, Damascus (Civ Mil)
+40100, Beirut (Civ Mil)
+40179, Bet Dagan
+40186, Ashdod North
+40250, Hotel 4 'Irwaished'
+40265, Mafraq (Jor Afb)
+40373, Hafr Al Batin Arpt
+40375, Tabuk (Saud Afb)
+40394, Hail
+40417, King Fahad International Apt
+40430, Madinah Intl Arpt
+40437, Riyadh King Khalid
+40582, Kuwait International Airport
+40648, Habbaniya (Irq Afb)
+40650, Baghdad Sirsenk Bam
+40706, Tabriz(Iran Ab Civ)
+40745, Mashhad (Afb Civ)
+40754, Tehran Mehrabad Afb
+40766, Kermanshah Baktaran
+40800, Esfahan (Civ Afb)
+40809, Birjand
+40811, Birjand
+40821, Yazd
+40841, Kerman
+40848, Shiraz (Civ Afb)
+40856, Zahedan
+40875, Bandar Abbas Intl
+40911, Mazar I Sharif
+40913, Kunduz
+40948, Kabul Intl (Mil)
+40980, Mokur
+40990, Kandahar
+41024, Jeddah Abdul Aziz
+41112, Abha
+41114, Khamis Mushait Afb
+41170, Doha
+41217, Abu Dhabi Intl
+41256, Seeb Intl Muscat
+41316, Salalah
+41404, Sana'A
+41414, Thamud
+41480, Aden Khormaksar Dy
+41506, Chitral
+41515, Drosh
+41530, Peshawar (Civ Mil)
+41594, Sargodha (Pak Afb)
+41598, Jhelum
+41624, Dera Ismail Khan
+41640, Lahore Walton
+41661, Quetta
+41675, Multan
+41712, Dalbandin
+41715, Jacobabad
+41718, Khanpur
+41739, Panjgur
+41744, Khuzdar
+41749, Nawabshah
+41756, Jiwani
+41768, Chhor
+41780, Karachi Intl Arpt
+41859, Rangpur
+41883, Bogra
+41891, Sylhet
+41907, Ishurdi
+41923, Comilla
+41936, Jessore
+41943, Feni
+41950, Barisal
+41977, Chittagong Ambagan
+41992, Cox'S Bazar
+42027, Srinagar
+42101, Patiala
+42182, Delhi Safdarjung
+42314, Dibrugarh Mohanbari
+42339, Jodhpur (In Afb)
+42361, Gwalior (In Afb)
+42369, Lucknow Amausi
+42379, Gorakhpur (In Afb)
+42397, Siliguri
+42410, Gauhati (In Afb)
+42492, Patna
+42591, Gava
+42623, Imphal
+42647, Ahmadabad
+42667, Bhopal Bairagarh
+42701, Ranchi
+42724, Agartala
+42798, Jamshedpur In
+42809, Calcutta Dum Dum
+42867, Nagpur Sonegaon Afb
+42874, Pbo Raipur
+42895, Balasore In
+42971, Bhubaneswar
+43003, Bombay Santacruz
+43014, Aurangabad Airport
+43041, Jagdalpur
+43128, Hyderabad (Civ Mil)
+43150, Vishakhapatnam Walt
+43185, Machilipatnam
+43192, Goa Panjim
+43279, Madras Minambakkam
+43285, Panambur
+43295, Bangalore
+43311, Amini Divi
+43333, Port Blair
+43346, Karaikal
+43353, Cochin (In Navy)
+43369, Minicoy Island
+43371, Thiruvananthapuram
+43418, Trincomalee Sb
+43424, Puttalam
+43466, Colombo
+43497, Hanbantota
+43555, Male
+43599, Gan
+44212, Ulan Gom
+44231, Muren
+44259, Choibalsan
+44277, Altai
+44288, Arbaiher
+44292, Ulan Bator
+44373, Dalanzadgad
+45004, King'S Park
+46741, Tainan (=593580)
+46750, Pingtung South
+46780, Lu Tau
+47003, Senbong
+47058, Pyongyang
+47090, Sokcho
+47102, Chongong Ni
+47122, Osan (Us Kor Afb)
+47138, Pohang
+47158, Kwangju (Kor Afb)
+47169, Heuksando
+47185, Cheju
+47261, Haeman
+47401, Wakkanai
+47412, Sapporo
+47418, Kushiro
+47420, Nemuro
+47580, Misawa
+47582, Akita
+47590, Sendai
+47600, Wajima
+47646, Tateno
+47678, Hachijojima Omure
+47681, Hamamatsu Ab
+47741, Matsue
+47744, Yonago
+47778, Shionomisaki
+47807, Fukuoka
+47827, Kagoshima Yoshino
+47881, Tokushima(Jmsdf Cv)
+47909, Naze Funchatoge
+47918, Ishigakijima Island
+47936, Naha Airport
+47945, Minamidaitojima Island
+47971, Chichijima Island
+47981, Iwojima (Jmsdf)
+47991, Minamitorishima
+48042, Mandalay
+48097, Rangoon Bm
+48327, Chiang Mai (Civ Afb)
+48354, Udon Thani
+48378, Phitsanulok
+48407, Ubon Ratchathani
+48431, Nakhon Ratchasima
+48453, Bangna Agromet
+48455, Bangkok
+48477, Sattahip Th
+48480, Chanthaburi
+48500, Prachuap Khirikhan
+48551, Surat Thani Th
+48565, Phuket Intl Airport
+48568, Songkhla (Thai Navy)
+48569, Hat Yai Intl (Afb)
+48601, Penang Bayan Lepas
+48615, Kota Bharu Sultan P
+48619, Kuala Trengganu
+48620, Sitiawan
+48648, Petaling Jaya
+48650, Sepang
+48657, Kuantan (Afb)
+48698, Singapore Changi
+48811, Hong Kong
+48820, Hanoi Noibai Intl
+48839, Bach Longvi Hp
+48845, Vinh
+48855, Da Nang Intl Arpt
+48870, Qui Nhon Vs
+48887, Phan Thiet Vs
+48900, Ho Chi Minh Tansonn
+48914, Ca Mau Vs
+50527, Hailar
+50557, Nenjiang
+50774, Yichun
+50953, Harbin
+51076, Altay
+51156, Hobog Sair
+51431, Yining
+51463, Urumqi
+51644, Kuqa
+51709, Kashi
+51777, Ruoqiang
+51828, Hotan
+51839, Minfeng Niya
+51848, Andir
+52203, Hami
+52267, Ejin Qi
+52323, Mazong Shan (Mount)
+52418, Dunhuang
+52533, Jiuquan Suzhou
+52681, Minqin
+52818, Golmud
+52836, Dulan Qagan Us
+52866, Xining
+52889, Lanzhou
+52983, Yu Zhong
+53068, Erenhot
+53463, Hohhot
+53513, Linhe
+53614, Yinchuan
+53772, Taiyuan Wusu
+53845, Yan An
+53915, Pingliang
+54102, Xilin Hot Abagnar
+54135, Tongliao
+54161, Changchun
+54218, Chifeng Ulanhad
+54292, Yanji
+54337, Jinzhou
+54342, Shenyang Dongta
+54374, Linjiang
+54497, Dandong
+54511, Beijing Peking
+54662, Dalian Dairen Luda
+54727, Zhangqui
+54823, Jinan Tsinan
+54857, Qingdao Tsingtao
+55299, Nagqu
+55591, Lhasa
+56029, Yushu
+56080, Hezuo
+56137, Qamdo
+56146, Garze
+56187, Wenjiang
+56294, Chengdu
+56571, Xichang
+56691, Weining
+56739, Tengchong
+56778, Kunming Wujiaba
+56964, Simao
+56985, Mengzi
+57036, Xi'An
+57067, Lu Shih
+57083, Zhengzhou
+57127, Hanzhong
+57131, Jinjhe
+57178, Nanyang
+57447, Enshi
+57461, Yichang
+57494, Wuhan Nanhu
+57516, Chongqing Chungking
+57679, Changsha Datuopu
+57749, Huaihua
+57816, Guiyang
+57957, Guilin
+57972, Chenzhou
+57993, Ganzhou
+58027, Xuzhou
+58150, Sheyang Hede
+58203, Fuyang
+58238, Nanjing Nanking
+58362, Shanghai
+58424, Anqing
+58457, Hangzhou Jianqiao
+58606, Nanchang
+58633, Qu Xian
+58665, Luqiao
+58725, Shaowu
+58847, Fuzhou
+58968, Taipei
+59134, Xia Men
+59211, Bose
+59265, Wuzhou
+59280, Ping Yuan
+59316, Shantou
+59431, Nanning Wuxu
+59758, Haikou
+59981, Xisha Island
+60010, Izana Mountain Top
+60018, Valle De Guimar Tenerife
+60020, Santa Cruz Tenerife
+60155, Casablanca Anfa
+60191, Beni Mellal
+60230, Marrakech Menara
+60252, Al Massira Mc
+60390, Dar El Beida Houari
+60430, Miliana
+60490, Oran Es Senia
+60525, Biskra
+60535, Djelfa Tletsi
+60549, Mecheria
+60571, Bechar Ouakda
+60580, Ouargla
+60630, In Salah
+60656, Tindouf
+60680, Tamanrasset
+60686, Bordj Badj Mokhtar
+60715, Tunis Carthage
+60750, Sfax El Maou
+60760, Tozeur Nefta
+61017, Bilma Nr
+61024, Agadez South (Mil)
+61052, Niamey Aero
+61075, Birni N'Konni
+61090, Zinder Nr
+61202, Tessalit
+61214, Kidal Mi
+61223, Tombouctou Timbuktu
+61226, Gao Mi
+61233, Nara
+61265, Mopti Mi
+61291, Bamako Senou (Mil)
+61293, Koutiala
+61404, Zouerate Mt
+61415, Nouadhibou
+61442, Nouakchott
+61600, Saint Louis Sg
+61641, Dakar Yoff
+61687, Tambacounda
+61695, Ziguinchor
+61831, Conakry
+61832, Conakry Gbessia
+61901, St. Helena Island
+61902, Wide Awake Field
+61967, Diego Garcia
+61976, Serge Frolow Tromelin
+61980, Saint Denis
+61995, Vacoas
+61996, Martin De Vivies
+61997, Alfred Faure Crozet
+61998, Port Aux Francais
+62010, Tripoli Intl Arpt
+62053, Benina Benghazi
+62124, Sebha (Aut)
+62306, Mersa Matruh (Mil)
+62337, El Arish
+62378, Helwan
+62403, South Of Valley Univ
+62414, Aswan (Civ Mil)
+62423, Farafra
+62423, Farafra (Oasis)
+62450, El Suez
+62721, Khartoum (Civ Mil)
+63450, Addis Ababa Bole
+63612, Lodwar
+63705, Entebbe Intl Arpt
+63723, Garissa
+63741, Nairobi Dagoretti
+63894, Dar Es Salaam Tn
+63985, Seychelles Intl
+64400, Pointe Noire
+64450, Brazzaville Maya Maya
+64458, Ouesso
+64500, Libreville Leon Mba
+64650, Bangui M'Poko (Mil)
+64655, Bria
+64659, Obo
+64665, Mobaye
+64700, Ndjamena (Civ Mil)
+64705, Bousso
+64750, Sarh Cd
+64870, Ngaoundere
+64900, Yoko
+64910, Douala (Civ Mil)
+65046, Kano Ni
+65125, Abuja
+65257, Enugu
+65306, Kandi Bj
+65330, Parakou
+65344, Cotonou Bj
+65387, Lome Tg
+65418, Tamale
+65503, Ouagadougou
+65510, Bobo Dioulasso Hv
+65548, Man
+65555, Bouake (Civ Mil)
+65578, Abidjan Port Bouet
+65592, Tabou
+67002, Moroni Hahaya Ic
+67027, Majunga Mg
+67073, Maintirano
+67083, Antananarivo Ivato
+67095, Tamatave Mg
+67197, Ft. Dauphin Tolagna
+67231, Cuamba
+67237, Nampula
+67297, Beira
+67341, Maputo Mavalane
+67666, Lusaka City Airport
+67774, Harare Belvedere
+67964, Bulawayo Goetz
+68032, Maun
+68040, Letlhakane
+68098, Walvis Bay Airport Nm
+68110, Windhoek Eros(Saaf)
+68174, Pietersburg (Saaf)
+68240, Sir Seretse Khama
+68242, Mmabatho Intl Arpt
+68262, Pretoria (Met)
+68263, Pretoria Irene
+68312, Keetmenshoop Nm
+68328, Tsabong
+68424, Upington Pierre Van
+68442, Bloemfontein Hertzog
+68461, Bethlehem Airport
+68512, Springbok
+68538, Deaar(Ua)
+68588, Durban Louis Botha
+68592, King Shaka Intl Arpt
+68816, Capetown Df Malan
+68842, Port Elizabeth
+68906, Gough Island
+68994, Marion Island
+69014, El Toro Mcas
+69016, Tustin Mcaf
+69990, Sterling Va
+69992, Caribou
+70026, Point Barrow
+70026, Point Barrow
+70026, Point Barrow
+70027, Barrow Point Barrow
+70048, Annette Island
+70086, Barter Island Aws
+70086, Barter Island
+70086, Barter Island
+70086, Barter Island
+70107, Cape Thompson
+70133, Kotzebue
+70200, Nome Aab
+70200, Nome Aab
+70200, Nome Fed Bldg
+70200, Nome Fed Bldg
+70200, Nome Ap
+70200, Nome Ap
+70200, Nome Ap
+70200, Nome Ap
+70204, Gambell
+70219, Bethel
+70219, Bethel
+70219, Bethel
+70219, Bethel
+70219, Bethel
+70219, Bethel
+70231, Mcgrath
+70261, Fairbanks
+70261, Fairbanks
+70261, Fairbanks
+70263, Fort Greely
+70263, Fort Greely
+70270, Ft Richardsen
+70273, Anchorage
+70273, Anchorage
+70273, Anchorage
+70273, Anchorage
+70273, Anchorage Int Apt
+70273, Anchorage Int Apt
+70273, Anchorage Int Apt
+70273, Anchorage Iap Pt. Campbe
+70291, Northway
+70308, St Paul Island
+70308, St Paul Island
+70308, St Paul Island
+70308, St Paul Island
+70308, St Paul Island
+70308, St Paul Island
+70308, St Paul Island
+70316, Cold Bay Afb
+70316, Cold Bay Afb
+70316, Cold Bay Afb
+70316, Cold Bay Afb
+70316, Cold Bay Afb
+70316, Cold Bay Afb
+70316, Cold Bay
+70316, Cold Bay
+70326, Naknek
+70326, Naknek
+70326, King Salmon
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70350, Kodiak
+70361, Yakutat
+70361, Yakutat
+70361, Yakutat
+70361, Yakutat
+70361, Yakutat
+70381, Juneau
+70381, Juneau Apt
+70398, Annette Island
+70398, Annette Island
+70409, Attu Island
+70409, Attu Island
+70414, Shemya Island
+70414, Shemya Island Afb
+70414, Shemya Island Navy
+70414, Shemya Island Navy
+70414, Shemya (Wb)
+70414, Shemya
+70414, Shemya
+70439, Amchitka Island
+70439, Amchitka Island
+70454, Adak Davis Afb
+70454, Adak Davis Afb
+70454, Adak
+70454, Adak Davis Afb
+70454, Adak Davis Afb
+70454, Adak Davis Afb
+70485, Umnak Cape Afb Ft Glenn
+70485, Umnak Cape Afb Ft Glenn
+70489, Dutch Harbor
+70489, Dutch Harbor
+70952, Ketchikan
+71043, Norman Wells
+71043, Norman Wells (Ua)
+71051, Sachs Harbour
+71072, Mould Bay
+71074, Isachsen
+71081, Hall Beach Hall Lk
+71082, Alert
+71109, Port Hardy
+71115, Vernon
+71119, Edmonton Stony Plain
+71120, Cold Lake (Can Mil) (*)
+71121, Edmonton Namao(Mil) (*)
+71124, Primrose Lake
+71126, Brooks
+71127, Primrose Lake 2 (Temp)
+71129, Kindersley Airport
+71145, Island Lake Airport (*)
+71197, Port Aux Basques
+71200, Victoria Intl Arpt (*)
+71203, Kelowna Apt
+71230, Whistler Olympic Site
+71371, Saint Hubert Airport
+71399, Shelbourne
+71561, Egbert Cn
+71569, Bratts Lake
+71569, Bratts Lake
+71600, Sable Island
+71603, Yarmouth
+71621, Trenton (Can Mil)
+71625, Petawawa Arpt
+71627, Montreal Dorval (*)
+71638, Toronto Aes Hq
+71701, Gagetown
+71714, Quebec Airport
+71716, Valcartier
+71722, Maniwaki
+71801, Torbay St Johns
+71802, Saint Lawrence
+71811, Sept Iles (Ua)
+71815, Stephenville Harmon Afb
+71816, Goose Goose Bay
+71823, La Grande Iv
+71826, Nitchequon
+71836, Moosonee
+71843, Winnipeg
+71845, Pickle Lake
+71845, Pickle Lake
+71848, Trout Lake
+71848, Pickle Lake
+71851, Portage Southport A
+71852, Winnipeg Intl Arpt (*)
+71853, Shilo
+71855, Dauphin (*)
+71863, Regina Airport
+71866, Saskatoon Airport
+71867, The Pas
+71874, Lethbridge
+71874, Lethbridge
+71876, North Battleford
+71876, North Battleford
+71877, Calgary (Winds)
+71892, Vancouver Intl Arpt (*)
+71893, Comox
+71896, Prince George
+71896, Prince George
+71896, Prince George
+71906, Ft Chimo (Kuujjuaq)
+71906, Kuujjuaq (Ua)
+71907, Inukjuak
+71907, Inukjuak
+71908, Prince George
+71909, Frobisher Bay
+71909, Iqaluit (Ua)
+71909, Iqaluit (Ua)
+71913, Churchill
+71915, Coral Harbour
+71915, Coral Harbour
+71917, Eureka
+71924, Resolute
+71925, Cambridge Bay
+71926, Baker Lake
+71926, Baker Lake (Ua)
+71932, Fort Mcmurray Arpt (*)
+71934, Ft Smith (Ua)
+71942, Fairview
+71945, Fort Nelson
+71945, Fort Nelson Ua
+71957, Inuvik (Ua)
+71964, Whitehorse
+72201, Key West Int Ap
+72201, Key West Boca Chica Nas
+72201, Key West Boca Chica Nas
+72202, Miami
+72202, Miami
+72202, Miami Int Ap
+72202, Miami Fl Intl Univ
+72203, W. Palm Beach
+72206, Jacksonville
+72206, Jacksonville
+72206, Jacksonville
+72206, Jacksonville Nas
+72208, Charleston
+72208, Charleston
+72210, Tampa
+72210, Tampa Bay Ruskin
+72211, Tampa
+72211, Tampa
+72211, Tampa
+72213, Waycross
+72214, Tallahasee
+72214, Tallahasee
+72215, Peachtree City
+72216, Albany Turner Afb
+72216, Albany Turner Afb
+72216, Albany Turner Afb
+72217, Warner Robins
+72217, Warner Robins
+72219, Atlanta
+72220, Apalachicola
+72220, Apalachicola
+72221, Valparaiso Elgin Afb
+72221, Valparaiso Elgin Afb
+72221, Valparaiso Elgin Afb
+72221, Valparaiso Elgin Afb
+72222, Pensacola F. Sherman Fld
+72222, Pensacola
+72222, Pensacola
+72222, Pensacola
+72222, Pensacola
+72224, Cape San Blas
+72226, Montgomery Gunter Afb
+72226, Montgomery Maxwell
+72226, Montgomery Maxwell
+72226, Montgomery Donnelly Fld
+72226, Montgomery Donnelly Fld
+72229, Centerville
+72230, Birmingham (Shelby Apt)
+72231, New Orleans
+72232, Burrwood
+72232, Burrwood
+72232, Boothville
+72232, Boothville
+72232, Boothville
+72233, Slidell
+72235, Jackson Thompson Fld
+72235, Jackson Thompson Fld
+72235, Jackson Hawkins Fld
+72235, Jackson Hawkins Fld
+72235, Jackson Hawkins Fld
+72235, Jackson Hawkins Fld
+72235, Jackson Hawkins Fld
+72238, Greenville
+72240, Lake Charles
+72240, Lake Charles
+72243, Houston Ellington Afb
+72243, Houston (Emsu)
+72243, Houston (Emsu)
+72243, Houston (Emsu)
+72244, Bryan Afb
+72244, Bryan Afb
+72246, Alexandria
+72247, Longview
+72248, Shreveport Barksdale Afb
+72248, Shreveport Barksdale Afb
+72248, Shreveport Mun Ap
+72248, Shreveport Mun Ap
+72248, Shreveport Mun Ap
+72248, Shreveport Regional Ap
+72249, Ft Worth
+72250, Brownsville
+72250, Brownsville
+72251, Corpus Christi
+72251, Corpus Christi Nas
+72251, Corpus Christi Nas
+72251, Corpus Christi Nas
+72251, Corpus Christi Nas
+72253, San Antonio
+72253, San Antonio
+72253, San Antonio
+72253, San Antonio
+72255, Victoria
+72256, Waco
+72259, Ft Worth Carswell Afb
+72259, Ft Worth Carswell Afb
+72259, Ft Worth Carswell Afb
+72260, Stephenville
+72261, Del Rio Laughlin Afb
+72261, Del Rio Laughlin Afb
+72261, Del Rio Laughlin Afb
+72261, Del Rio
+72263, San Angelo Goodfellow
+72263, San Angelo Goodfellow
+72263, San Angelo Goodfellow
+72264, Marfa Aaf
+72265, Midland
+72265, Midland
+72265, Midland
+72265, Midland
+72265, Midland
+72265, Midland
+72265, Big Spr Using
+72265, Big Spr Using
+72266, Abilene Dyess Afb
+72266, Abilene Dyess Afb
+72266, Abilene Dyess Afb
+72266, Abilene Dyess Afb
+72266, Abilene
+72267, Lubbock Reese Afb
+72267, Lubbock Reese Afb
+72267, Lubbock Reese Afb
+72269, White Sands Las Cruces
+72269, White Sands Las Cruces
+72269, White Sands Las Cruces
+72269, White Sands Las Cruces
+72269, Jallen Site
+72270, El Paso Biggs Afb
+72270, El Paso
+72270, El Paso
+72270, El Paso
+72270, El Paso
+72273, Ft Huachuca
+72273, Ft Huachuca
+72273, Ft Huachuca
+72273, Ft Huachuca
+72273, Ft Huachuca
+72273, Ft Huachuca
+72273, Ft Huachuca
+72274, Tucson Davis Monthan Afb
+72274, Tucson
+72274, Tucson
+72274, Tucson
+72274, Tucson
+72274, Tucson
+72274, Tucson
+72278, Phoenix Litchfield Park
+72278, Phoenix
+72278, Phoenix
+72278, Phoenix
+72278, Phoenix
+72278, Phoenix
+72280, Yuma
+72280, Yuma
+72280, Yuma
+72280, Yuma
+72280, Yuma
+72280, Yuma Us Army Met Team
+72280, Yuma Us Army Met Team
+72281, El Centro
+72288, Santa Monica Clover Fld
+72290, San Diego Montgomery
+72290, North Island San Diego
+72290, North Island San Diego
+72291, San Nicolas Site #2
+72291, San Nicolas Island
+72291, San Nicolas Island Site
+72291, San Nicolas Island Site
+72291, San Nicolas Island Site1
+72292, Camp Pendleton
+72293, Miramar Nas
+72293, San Clemente Island
+72293, San Clemente Island
+72295, Los Angeles
+72295, Los Angeles
+72295, Los Angeles
+72295, Los Angeles (Emsu)
+72297, Long Beach
+72297, Long Beach
+72297, Long Beach
+72297, Long Beach
+72297, Long Beach
+72304, Hatteras
+72304, Cape Hatteras
+72305, Morehead City Newport
+72308, Norfolk
+72308, Norfolk
+72308, Norfolk
+72309, Cherry Point Mcas
+72309, New River Mcaf
+72309, Bogue Fld Mcalf Swansbo
+72309, Bogue Field Mcaf
+72311, Athens
+72317, Greensboro
+72317, Greensboro
+72317, Greensboro
+72317, Greensboro
+72318, Roanoke Blacksburg
+72326, Knoxville Mcghee Tyson
+72327, Nashville Berry Fld
+72327, Nashville Berry Fld
+72327, Nashville
+72327, Nashville
+72334, Memphis
+72334, Memphis
+72334, Memphis
+72334, Memphis
+72340, N Little Rock
+72340, N Little Rock
+72340, Blytheville Afb
+72340, Blytheville Afb
+72340, Blytheville Afb
+72340, Little Rock
+72340, Little Rock
+72340, Little Rock
+72344, Ft Smith
+72344, Ft Smith
+72344, Ft Smith
+72344, Ft Smith
+72344, Ft Smith
+72349, Monett
+72350, Ardmore Gene Autry Afb
+72351, Wichita Falls Sheppard
+72352, Altus Afb
+72352, Altus Afb
+72353, Enid Vance Afb
+72353, Oklahoma City Will Roger
+72353, Oklahoma City Will Roger
+72353, Oklahoma City Will Roger
+72354, Oklahoma City Tinker Afb
+72354, Oklahoma City Tinker Afb
+72354, Oklahoma City Tinker Afb
+72354, Oklahoma City Tinker Afb
+72355, Ft Sill
+72355, Lawton
+72355, Ft Sill Afb
+72355, Fort Sill
+72357, Norman
+72357, Norman
+72363, Amarillo
+72363, Amarillo
+72363, Amarillo
+72363, Amarillo
+72363, Amarillo
+72363, Amarillo
+72364, Santa Teresa
+72365, Albuquerque
+72365, Albuquerque
+72374, Winslow
+72374, Winslow
+72376, Flagstaff Bellemt (Army)
+72381, Edwards Afb Upper Air
+72381, Muroc Edwards Afb
+72381, Muroc Edwards Afb
+72381, Muroc Edwards Afb
+72384, Bakersfield, Meadows Fld
+72385, Yucca Flat
+72385, Yucca Flat
+72385, Yucca Flat
+72385, Yucca Flat
+72385, Yucca Flat
+72385, Yucca Flat
+72385, Jackass Flats
+72385, Jackass Flats
+72385, Jackass Flats
+72386, Nellis Afb
+72386, Nellis Afb
+72386, Las Vegas
+72386, Las Vegas
+72387, Mercury Test Site
+72387, Mercury Test Site
+72387, Mercury Test Site
+72387, Mercury Test Site
+72387, Desert Rock Mercury
+72388, N China Lake B 1 Range
+72388, N China Lake G 1 Range
+72388, N China Lake G 1 Range
+72388, Las Vegas
+72389, Fresno
+72389, Fresno
+72391, Point Mugu Nas
+72391, Point Mugu
+72391, Point Mugu
+72391, Point Mugu
+72391, Point Mugu
+72391, Point Mugu
+72392, Vandenberg Afb
+72392, Vandenberg Afb
+72392, Vandenberg Afb
+72392, Point Arguello
+72393, Vandenberg Afb
+72393, Vandenberg
+72393, Vandenberg South
+72394, Santa Maria
+72394, Santa Maria
+72396, Jolon
+72396, Jolon Hunter Liggett Mil
+72402, Wallops Island
+72402, Wallops Island
+72402, Wallops Island
+72403, Sterling(Wash Dulles)
+72405, Washington Nat Apt
+72405, Silver Hill
+72405, Washington (Emsu)
+72405, Wash Site 1 (Emsu)
+72405, Arlington Site 3 (Emsu)
+72405, Wash Alexandria Marina
+72405, Wash Camp Stn Site 1 (Em
+72405, Wash Site 5 (Emsu)
+72407, Atlantic City
+72408, Philadelphia
+72408, Philadelphia (Emsu)
+72408, Philadelphia (Emsu)
+72408, Philadelphia (Emsu)
+72408, Philadelphia (Emsu)
+72408, Philadelphia (Emsu)
+72409, Lakehurst Nas
+72414, Charleston (Emsu)
+72423, Ft Knox Godman Afb
+72423, Louisville
+72423, Louisville (Emsu)
+72425, Huntington
+72425, Huntington
+72426, Wilmington
+72429, Dayton Wright Patterson
+72429, Dayton Sulphur Gove (Wb)
+72429, Dayton Sulphur Grove
+72429, Dayton Sulphur Grove
+72433, Salem
+72433, Salem
+72433, Belleville Scott Afb
+72433, Belleville Scott Afb
+72433, Belleville Scott Afb
+72434, St. Louis Arch Site (Ems
+72434, St Louis Mobile Site1(Em
+72434, St Louis Mobile Site (Em
+72435, Paducah
+72436, Columbus Bakalar Afb
+72440, Springfield Regional Ap
+72445, Columbia
+72445, Columbia
+72451, Dodge City
+72451, Dodge City
+72451, Dodge City
+72455, Ft Riley Marshall Aaf
+72456, Topeka Forbes Afb
+72456, Topeka Forbes Afb
+72456, Topeka
+72456, Topeka
+72457, Ft Leavenworth Sherman A
+72457, Ft Leavenworth Sherman A
+72458, Salina Smoky Hill Afb
+72458, Salina Smoky Hill Afb
+72458, Salina Smoky Hill Afb
+72465, Goodland
+72465, Goodland
+72465, Goodland
+72465, Goodland
+72465, Goodland
+72465, Grand Forks Afb
+72468, Fort Carson Army
+72469, Denver Lowry
+72469, Denver Lowry
+72469, Denver Lowry
+72469, Denver Lowry
+72469, Denver Stapleton Arpt
+72469, Denver Stapleton Arpt
+72469, Denver Stapleton Arpt
+72469, Akron Det R2
+72475, St George
+72476, Grand Junction
+72476, Grand Junction
+72476, Grand Junction
+72476, Grand Junction
+72476, Grand Junction
+72481, Merced Castle Afb
+72483, Sacramento Beale Afb
+72485, Tonopah
+72485, Tonopah
+72486, Ely
+72486, Ely
+72488, Reno Stead Afb
+72488, Reno Stead Afb
+72488, Reno Stead Afb
+72489, Reno
+72493, Oakland
+72493, Oakland
+72493, Oakland Int Ap
+72497, Chico
+72501, Brookhaven
+72503, Ny Laguardia Ap (Emsu)
+72503, Ny Central Park Site (Em
+72506, Falmouth
+72506, Nantucket
+72506, Nantucket
+72506, Nantucket
+72506, Nantucket
+72507, Quonset Point
+72509, Boston (Emsu)
+72518, Rome Griffiss Afb
+72518, Rome Griffiss Afb
+72518, Albany
+72518, Albany
+72518, Albany
+72520, Pittsburgh Allegheny
+72520, Pittsburgh Coraopolis
+72520, Pittsburgh Pittsbgh Ap
+72520, Pittsburgh Pittsbgh Ap
+72520, Pittsburgh Coraopolis
+72520, Pittsburgh Moon Township
+72520, Pittsburgh Moon Township
+72524, Cleveland (Emsu)
+72528, Niagara Falls
+72528, Buffalo Grtr Arpt
+72528, Buffalo Grtr Arpt
+72531, Rantoul Chanute Afb
+72532, Peoria
+72532, Peoria
+72534, Joliet
+72534, Chicago Midway Ap (Emsu)
+72534, Chicago Midway Ap (Emsu)
+72535, South Bend
+72535, South Bend
+72535, South Bend
+72536, Toledo
+72537, Mt Clemens
+72537, Mt Clemens
+72537, Detroit Metro
+72537, Detroit (Emsu)
+72539, Battle Creek Ft Custer
+72545, Cedar Rapids
+72545, Cedar Rapids
+72548, Waterloo
+72548, Waterloo
+72550, Omaha Eppley
+72553, Omaha
+72553, N Omaha
+72553, N Omaha
+72553, N Omaha
+72558, Omaha Valley
+72562, North Platte
+72562, North Platte
+72562, North Platte
+72563, Sidney
+72566, Scottsbluff
+72572, Salt Lake City
+72575, Ogden Hill Afb
+72575, Ogden Hill Afb
+72575, Ogden Hill Afb
+72575, Ogden
+72576, Lander
+72576, Lander
+72576, Lander
+72576, Lander
+72581, Tooele Dugway Pg
+72581, Tooele Dugway Pg
+72581, Tooele Dugway Pg
+72581, Wendover Afb
+72581, Wendover Usaf Aux Field
+72582, Elko
+72583, Winnemucca
+72583, Winnemucca
+72597, Medford Afb
+72597, Medford
+72597, Medford
+72600, Sable Island
+72600, Sable Island
+72600, Sable Island
+72606, Portland
+72606, Portland
+72632, Detroit Pontiac
+72634, Gaylord Alpena
+72637, Flint Bishop Arpt
+72637, Flint Bishop Arpt
+72645, Green Bay
+72645, Green Bay
+72645, Green Bay
+72649, Minneapolis
+72654, Huron
+72654, Huron
+72654, Huron
+72654, Huron Howes Apt
+72654, Huron Howes Apt
+72654, Huron Howes Apt
+72654, Huron Howes Apt
+72655, St Cloud Whitney Apt
+72655, St Cloud Whitney Apt
+72655, St Cloud Municipal Apt
+72659, Aberdeen
+72662, Rapid City
+72662, Rapid City
+72662, Rapid City
+72662, Rapid City
+72662, Rapid City
+72662, Rapid City
+72672, Riverton
+72681, Boise
+72681, Boise
+72681, Boise
+72694, Salem
+72698, Portland
+72698, Portland
+72701, Gagetown
+72701, Gagetown
+72712, Caribou
+72712, Caribou
+72712, Caribou
+72712, Caribou
+72712, Caribou
+72721, Wilmington Clinton Afb
+72722, Maniwaki
+72734, Sault Ste Marie
+72734, Sault Ste Marie
+72734, Sault Ste Marie
+72747, International Falls
+72747, International Falls
+72747, International Falls
+72747, International Falls
+72764, Bismarck
+72764, Bismarck
+72764, Bismarck
+72764, Bismarck
+72768, Glasgow
+72768, Glasgow
+72768, Glasgow
+72768, Glasgow
+72775, Great Falls Malmstrom Af
+72775, Great Falls
+72775, Great Falls
+72775, Great Falls
+72775, Great Falls
+72776, Great Falls
+72785, Spokane
+72785, Spokane
+72785, Spokane
+72785, Spokane
+72785, Spokane
+72785, Spokane
+72786, Spokane Intnl Apt
+72792, Olympia
+72793, Tacoma Mcchord Afb
+72793, Seattle Boeing Fld
+72793, Seattle Tacoma Apt
+72793, Seattle Tacoma Apt
+72793, Seattle Nas
+72793, Seattle Nas
+72793, Seattle Nas
+72793, Seattle (Emsu)
+72793, Seattle Boeing Fld (Emsu
+72797, Quillayute
+72797, Quillayute
+72798, Tatoosh Island
+72798, Tatoosh Island
+72801, Torbay St Johns
+72807, Argentia
+72807, Argentia
+72807, Argentia
+72811, Seven Isles
+72811, Sept Iles
+72811, Sept Iles (Ua)
+72815, Stephenville Harmon Afb
+72815, Stephenville Harmon Afb
+72815, Stephenville Harmon Afb
+72815, Stephenville Harmon Afb
+72815, Stephenville Harmon Afb
+72816, Goose Goose Bay
+72816, Goose Goose Bay
+72826, Nitchequon
+72826, Nitchequon
+72826, Nitchequon
+72836, Moosonee
+72836, Moosonee
+72848, Trout Lake
+72848, Trout Lake
+72853, Shilo Camp Shilo
+72853, Shilo Camp Shilo
+72853, Shilo Camp Shilo
+72867, The Pas
+72869, Prince Albert
+72877, Calgary
+72879, Edmonton
+72879, Edmonton Namao Aab
+72879, Edmonton Mun Ap
+72879, Edmonton Mun Ap
+72896, Prince George
+72896, Prince George
+72896, Prince George
+72896, Prince George
+72906, Ft Chimo
+72906, Ft Chimo (Kuujjuaq)
+72907, Port Harrison Inukjuak
+72907, Inukjuak
+72909, Frobisher Bay
+72909, Frobisher Bay
+72913, Churchill
+72913, Churchill
+72915, Coral Harbour
+72915, Coral Harbour
+72917, Eureka
+72917, Eureka
+72917, Eureka
+72917, Eureka
+72917, Eureka
+72917, Eureka
+72918, Arctic Bay
+72918, Arctic Bay
+72924, Resolute
+72924, Resolute
+72924, Resolute
+72924, Resolute
+72924, Resolute
+72924, Resolute
+72924, Resolute
+72925, Cambridge Bay
+72926, Baker Lake
+72926, Baker Lake
+72928, Rocky Mtn House (Ua)
+72934, Ft Smith
+72934, Ft Smith
+72934, Ft Smith (Ua)
+72938, Coppermine
+72945, Fort Nelson
+72945, Fort Nelson
+72945, Fort Nelson
+72957, Inuvik (Ua)
+72957, Inuvik
+72964, Whitehorse
+72964, Whitehorse
+72964, Whitehorse
+72964, Whitehorse
+72968, Aklavik
+74001, Redstone Arsenal
+74002, Aberdeen Proving Gr
+74002, Phillips Afb, Aberdeen
+74004, Yuma Us Army Proving Gr
+74005, Luke Air Force Base
+74006, Yuma Proving Ground
+74043, Norman Wells
+74043, Norman Wells
+74043, Norman Wells
+74043, Norman Wells
+74051, Sachs Harbour
+74051, Sachs Harbour
+74072, Mould Bay
+74072, Mould Bay
+74074, Isachsen
+74074, Isachsen
+74081, Hall Beach Hall Lk
+74081, Hall Beach Hall Lk
+74082, Alert
+74082, Alert
+74090, Clyde
+74090, Clyde
+74090, Clyde
+74090, Clyde
+74109, Port Hardy
+74109, Port Hardy
+74109, Port Hardy
+74115, Vernon
+74119, Edmonton Stony Plain
+74188, Mingan
+74198, St Johns Pepperrell Afb
+74370, Ft Drum Wheeler Sack Afb
+74389, Gray
+74392, Brunswick
+74393, Portland (Lgt Vsl)
+74399, Shelburne
+74399, Shelbourne
+74455, Davenport Municipal Ap
+74468, Jefferson Proving (Army)
+74479, Pittsburgh (Emsu)
+74482, Newburgh Stewart Afb
+74482, Newburgh Stewart Afb
+74486, New York Idlewild
+74486, New York Jfk Int Ap
+74486, New York Ft Totten
+74494, Chatham
+74498, New York Hempstead
+74504, Pillar Point
+74504, Pillar Point
+74505, San Jose (Emsu)
+74505, San Jose Brentwood (Ems
+74505, San Jose Santa Rosa (Ems
+74530, Denver (Emsu)
+74530, Denver (Emsu)
+74531, Air Force Academy
+74547, Hillsboro
+74560, Lincoln Logan County Ap
+74574, Dahlgren
+74574, Dahlgren
+74594, Andrews Afb
+74606, Vandenberg Boathouse
+74606, Vandenberg Sudden Ranch
+74606, Vandenberg Afb S
+74611, Bicycle Lake Aaf
+74612, Inyokern China Lake Naf
+74612, Inyokern China Lake Naf
+74612, Inyokern China Lake Naf
+74612, Inyokern China Lake Naf
+74612, Inyokern China Lake Naf
+74612, China Lake Naf Us
+74619, Superior Valley Gun Range
+74626, Phoenix
+74630, Stallion Site
+74641, West Woodward
+74646, Lamont
+74650, Morris
+74651, Purcell
+74702, Lamoore Reeves Nas
+74704, El Monte (Emsu)
+74704, El Monte (Emsu)
+74724, Gila Bend Aaf
+74732, Alamogordo Holloman Afb
+74732, Alamogordo Holloman Afb
+74794, Cape Canaveral
+74794, Cape Kennedy
+74795, Cocoa Beach Patrick
+76151, Guadalupe Island
+76180, Mazatlan Sinaloa
+76225, Chihuahua
+76225, Chihuahua
+76256, Empalme Sonora
+76256, Empalme Sonora
+76382, Torreon Airport
+76394, Monterrey
+76394, Monterrey
+76405, La Paz De Leon
+76458, Mazatlan Sinaloa
+76458, Mazatlan Sinaloa
+76491, Ciudad Victoria
+76526, Guadalupe, Zachatecas
+76595, Cancun (*)
+76595, Cancun
+76612, Guadalajara
+76642, Triangulos Reefs
+76644, Merida
+76644, Merida Iap
+76644, Merida Iap
+76644, Merida Iap
+76654, Manzanillo
+76679, Mexico City Tacuya
+76679, Mexico City Int Apt
+76679, Mexico City Int Apt
+76679, Mexico City Int Apt
+76692, Veracruz
+76692, Veracruz
+76692, Veracruz
+76723, Socorro Island
+76723, Socorro Island
+76805, Accapulco
+76856, Puerto Angel
+78016, Bermuda Mckindley Afb
+78016, Bermuda (Mckindly Afb)
+78016, Bermuda (Mckindly Afb)
+78016, Bermuda (Mckindly Afb)
+78016, Bermuda (Mckindly Afb)
+78063, Grand Bahama Gold Rock Ck
+78073, Nassau Apt
+78076, Eleuthera I Coffin Hills
+78076, Eleuthera I Coffin Hills
+78076, Eleuthera I Coffin Hills
+78083, Andros Town
+78089, San Salvador Aafb Bonefis
+78107, Flamingo Hill Mayaguan Aa
+78118, Grand Turk Is Afb
+78118, Grand Turk Is Afb
+78325, Havana
+78325, Havana
+78355, Camaguay
+78355, Camaguay
+78367, Guantanamo Nas
+78367, Guantanamo Nas
+78367, Guantanamo Nas
+78367, Guantanamo Nas
+78367, Guantanamo Nas
+78367, Guantanamo Bay Nas
+78384, Grand Cayman
+78387, Negril Point (Lh)
+78397, Kingston Vernon Fld
+78397, Kingston Palisadoes
+78397, Kingston Palisadoes
+78467, Sabana De La Mar
+78485, Caucedo De Las
+78486, Santo Domingo
+78501, Swan Island Islas Del Cis
+78501, Swan Island Islas Del Cis
+78501, Swan Island Islas Del Cis
+78526, San Juan
+78526, San Juan
+78526, San Juan Isla Grande
+78526, San Juan Isla Verde
+78526, San Juan Isla Verde
+78526, San Juan Isla Verde
+78526, San Juan Isla Verde
+78535, Rooselvelt Roads
+78535, Rooselvelt Roads
+78583, Belize
+78588, Half Moon Caye
+78641, Guatemala City
+78718, Soto Cano Ab
+78720, Tegucigalapa, D.C.
+78724, Cholsteca
+78730, Puerto Cabezas(Mil)
+78762, San Jose Juan Santa Maria
+78806, Balboa Albrook Afb
+78806, Balboa Albrook Afb
+78806, Balboa Albrook Afb
+78806, Balboa Albrook Afb
+78807, Albrook Afb Balboa
+78808, Albrook
+78861, St Johns Coolidge Aafb
+78861, St John Coolidge Aafb
+78866, Sint Maarten Juliana
+78866, Sint Martin Juliana
+78897, Point A Pitre Raizet
+78897, Point A Pitre Raizet
+78897, Point A Pitre Raizet
+78949, St Lucia Aafb
+78954, Seawell Apt
+78954, Seawell Apt
+78955, Carribbean Met Institute
+78967, Trinidad Waller Fld
+78967, Trinidad Nas
+78967, Trinidad Nas
+78967, Trinidad Nas
+78967, Trinidad Nas
+78967, Trinidad Chaguaramas
+78967, Trinidad Chaguaramas
+78970, Trinidad Piarco Iap
+78988, Curacao Willemstad
+78988, Curacao Willemstad
+78988, Curacao Willemstad
+78988, Curacao Willemstad
+80001, San Andres Island
+80001, Sesquicentenario
+80002, Providencia Island
+80035, Riohacha Almirante
+80222, Bogota
+80222, Bogota
+80222, Bogota Eldorado
+80241, Gaviotas
+80398, Leticia Vasquez Cobo
+80413, Maracay
+80422, Carupano Vn
+80444, Ciudad Bolivar
+80447, San Antonio Tachira
+80450, San Fernando De Apure
+80462, Santa Elena Uairen
+81405, Cayenne Rochambeau
+82022, Boa Vista (Civ Mil)
+82025, Tirios
+82026, Tirios
+82099, Macapa Airport
+82107, Sao Gabriel Cach
+82193, Belem Val De Caes
+82244, Santarem
+82276, Alcantara
+82281, Sao Luis Marechal
+82332, Manaus Ponta Pelada
+82397, Fortaleza
+82400, Fernando De Noronha
+82411, Tabatinga
+82532, Manicore
+82599, Natal Augusto Sever
+82678, Floriano
+82705, Cruzerio Do Sul
+82765, Carolina
+82824, Porto Velho(Cv Mil)
+82900, Recife Curado
+82917, Rio Branco
+82917, Rio Branco
+82965, Alta Floresta
+82983, Petrolina
+83208, Vilhena
+83229, Salvador
+83288, Bom Jesus Da Lapa
+83362, Cuiaba Marechal
+83378, Brasilia (Civ Mil)
+83498, Caravelas
+83525, Uberlandia
+83554, Corumba (Aeroporto)
+83566, Confis Intnl Arpt
+83612, Campo Grande Intl
+83649, Vitoria Aeroporto
+83650, Trindade Island
+83708, Guaratingueta
+83746, Galeao Rio(Civ Mil)
+83768, Londrina Airport
+83779, Marte (Civ Mil)
+83780, Sao Paulo Congonhas
+83827, Foz Do Iguacu Arpt
+83840, Curitiba Afonso Pen
+83899, Florianopolis (Aeroporto)
+83928, Uruguaiana Rubem
+83937, Santa Maria Aeroport
+83971, Porto Alegre Salgad
+84008, San Cristobal Isl
+84203, Guayaquil Aeropuerto
+84378, Morona
+84416, Piura Grup7
+84628, Lima Jorge Chavez
+84629, Las Palmas
+84658, Puerto Maldonado
+84659, Puerto Maldonando Bamal
+85442, Antofagasta Cerro
+85469, Easter Island
+85543, Quintero (Mil)
+85574, Pudahuel Arturo
+85586, Santo Domingo
+85799, Puerto Montt Tepual
+85934, Punta Arenas
+86218, Silvio Pettirossi Airport
+87047, Salta Airport
+87155, Resistencia Airport
+87344, Cordoba Airport
+87418, Mendoza El Plumeril
+87576, Buenos Aires Ezeiza
+87623, Santa Rosa Airport
+87715, Neuquen Airport
+87860, Comodoro Rivadavia
+88889, Mount Pleasant Arpt
+89002, Von Neumayer G Base
+89009, Amundsen Scott
+89022, Halley Bri Base
+89050, Bellingshausen
+89055, Vicecomodoro Maram
+89062, Rothera Pt Bri Base
+89512, Novolazarevskaja
+89532, Syowa Japan Base
+89564, Mawson Aus Base
+89571, Davis Aus Base
+89592, Mirnyj Soviet Base
+89611, Casey Aus Base
+89642, Dumont D'Urville
+89662, Baia Terra Nova
+89664, Mcmurdo Usa Base
+91066, Midway Island (Navy)
+91066, Midway Island (Navy)
+91066, Midway Island (Navy)
+91066, Midway Island (Navy)
+91066, Midway Island (Navy)
+91066, Midway Island (Navy)
+91066, Midway Island (Army)
+91066, Midway Island (Wb)
+91115, French Frigate Shoal
+91162, Barking Sands
+91162, Barking Sands
+91162, Barking Sands
+91162, Barking Sands
+91165, Lihue Kauai
+91176, Kaneohe Bay Mcas
+91176, Kaneohe Bay Mcas
+91182, Honolulu (Hickam Fld)
+91182, Honolulu John Rogers Fld
+91182, Honolulu John Rogers Fld
+91182, Honolulu Int Ap
+91199, Pearl Harbor
+91199, Pearl Harbor
+91212, Guam,Mariana Is
+91217, Guam,Mariana Is
+91275, Johnston Island
+91285, Hilo
+91285, Hilo
+91285, Hilo
+91285, Hilo
+91334, Truk Intl Moen Isl
+91348, Ponape Island
+91364, Roi Namur
+91366, Kwajalein Bucholz
+91376, Majuro Marshall Isl
+91408, Koror Palau Island
+91413, Yap Island
+91517, Honiara
+91532, Nauru Arc 2 (Aus)
+91592, Noumea
+91610, Tarawa Bonriki Intl
+91643, Funafuti Intl Arpt
+91680, Nandi Nadi Intl
+91700, Canton Island
+91700, Canton Island
+91700, Canton Island
+91765, Pago Pago Intl Arpt
+91801, Penrhyn Island
+91843, Avarua Rarotonga Il
+91925, Atuona
+91929, Bora Bora
+91938, Tahiti Island Faaa
+91943, Takaroa Atoll
+91948, Rikitea
+91954, Tubuai Island
+91958, Rapa Island
+92035, Port Moresby W.O.
+92044, Momote W.O.
+93112, Whenuapai (Nz Afb)
+93291, Gisborne Nz
+93308, New Plymouth Nz
+93417, Paraparaumu Aero
+93614, Hokitika Nz
+93844, Invercargill Aero
+93986, Chatham Isl Tuuta
+93997, Raoul Isl Kermadec
+94120, Darwin (Civ Mil)
+94150, Gove Airport
+94170, Weipa Aero
+94203, Broome Airport
+94212, Halls Creek Au
+94238, Tennant Creek Airport Au
+94294, Townsville(Civ Mil)
+94299, Willis Island
+94300, Carnarvon Airport Au
+94302, Learmouth
+94312, Port Hedland Arrt
+94326, Alice Springs Arpt
+94332, Mount Isa Airport
+94346, Longreach Au
+94367, Mackay Mo Au
+94374, Rockhampton Airport
+94403, Geraldton Airport
+94430, Meekatharra Airport
+94461, Giles Met Station
+94510, Charleville Arpt
+94578, Brisbane Intl Arpt
+94610, Perth Intl Belmont
+94637, Kalgoorlie Boulder
+94638, Esperance
+94647, Eucla
+94653, Cenuda Au
+94659, Woomera (Aus Afb)
+94672, Adelaide Intl Arpt
+94693, Mildura Airport Au
+94711, Cobar
+94750, Nowra Ran Air Station Au
+94767, Sydney Intl Airport
+94776, Williamtown(Aus Ab)
+94791, Coffs Harbour Mo Au
+94802, Albany Airport
+94821, Mount Gambier Arpt
+94865, Laverton Aero
+94866, Melbourne Intl Arpt
+94910, Wagga Wagga(Cv Mil)
+94975, Hobart Airport
+94995, Lord Howe Island
+94996, Norfolk Island Arpt
+94998, Macquarie Island
+95527, Moree Amo
+96009, Lhoseumawe Id
+96011, Banda Atjeh Blangbintang Id
+96015, Meulaboh Cut Nyak Dhien Id
+96035, Medan Polonia (Mil)
+96073, Sibolga Pinangsore Id
+96075, Gunung Sitoli Id
+96091, Tanjungpinang Id
+96109, Pakanbaru Id
+96145, Tarempa Id
+96147, Ranai (Mil Civ)
+96163, Padang Tabing
+96171, Rengat Djapura Id
+96179, Singkep Dabo Id
+96195, Diambi Paalmerah Id
+96221, Palembang Talangbetutu Id
+96237, Pangkal Pinang
+96249, Tandjungpandan Buluhtumbang
+96253, Bengkulu Padangkemiling
+96295, Telukbetung Branti Id
+96315, Brunei Airport
+96413, Kuching (Civ Mil)
+96421, Sibu
+96441, Bintulu Kalimantan
+96471, Kota Kinabalu Intl
+96481, Tawau Kalimantan Il
+96491, Sandakan Kalimantan
+96509, Tantkan Djuwata Id
+96535, Paloh Id
+96581, Pontianak Id
+96595, Muaratewe Id
+96607, Samarinda Id
+96633, Balikpapan Sepinggan Id
+96645, Pangkalan Id
+96655, Palangka Raya Id
+96685, Bandjarmasin Ulin Id
+96737, Serang Id
+96739, Curug Id
+96749, Soekarno Hatta Intl
+96791, Jatiwangi Id
+96797, Tegal Id
+96801, Tasikmalaya Id
+96805, Tjilatjap Id
+96839, Semarang Kalibanteng Id
+96925, Sangkapura Id
+96935, Surabaya Juanda Mil
+96973, Kalianget Id
+96987, Banyuwangi Id
+96996, Cocos Isl Intl Arpt
+97008, Tahuna Naha Id
+97014, Menado Sam Ratulang
+97028, Toli Toli Lalos Id
+97048, Gorontalo Id
+97072, Palu Mutiara
+97086, Luwuk Id
+97096, Poso Kasiguncu Id
+97120, Majene Id
+97180, Hasanuddin Ujung Ab
+97192, Bau Bau Id
+97230, Denpasar
+97240, Ampenan Id
+97260, Sumbawa Besar Id
+97270, Bima Mohammed Salah Id
+97300, Maumere Id
+97340, Maingapu Mauhau Id
+97372, Kupang El Tari
+97430, Ternate Id
+97460, Labuha Taliabu Id
+97502, Sorong Id
+97530, Manokwari Id
+97560, Biak Frans Kaisiepo
+97600, Sanana Id
+97686, Wamena Id
+97690, Sentani Id
+97724, Ambon Pattimura
+97748, Geser Id
+97760, Kaimana, Irian Barat
+97810, Tual Dumatubun Id
+97900, Saumlaki Id
+97980, Merauke Mopah
+98223, Laoag Intl(Ph Army)
+98433, Tanay
+98444, Legazpi Luzon Isl
+98618, Puerto Princesa
+98646, Mactan Intl(Civ Af)
+98753, Davao Francisco Ban
+99016, Ocean Weather Station P
+99999, Baker
+99999, Yuma Mcas
+99999, Picton
+99999, Delta 7 Marco Island
+99999, Valkaria
+99999, Red Bank
+99999, Aloha Tower
+99999, Orogrande
+99999, Ft. Bliss
+99999, Frye Site
+99999, Twentynine Palms Naas
+99999, Waverly
